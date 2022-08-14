@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBodyAvatarMask 1
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/IK_Foot_L
+    m_Weight: 0
+  - m_Path: Armature/IK_Foot_L/Foot_L
+    m_Weight: 1
+  - m_Path: Armature/IK_Foot_L/Foot_L/Foot_L_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Foot_R
+    m_Weight: 0
+  - m_Path: Armature/IK_Foot_R/Foot_R
+    m_Weight: 1
+  - m_Path: Armature/IK_Foot_R/Foot_R/Foot_R_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Hand_L
+    m_Weight: 1
+  - m_Path: Armature/IK_Hand_L/Hand_L
+    m_Weight: 1
+  - m_Path: Armature/IK_Hand_L/Hand_L/Hand_L_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Hand_R
+    m_Weight: 1
+  - m_Path: Armature/IK_Hand_R/Hand_R
+    m_Weight: 1
+  - m_Path: Armature/IK_Hand_R/Hand_R/Hand_R_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Head
+    m_Weight: 1
+  - m_Path: Armature/IK_Head/Head
+    m_Weight: 1
+  - m_Path: Armature/IK_Head/Head/Head_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Neck/Neck_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_L
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_L/Upper_Arm_L
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Lower_Arm_L_end
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_R
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_R/Upper_Arm_R
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+    m_Weight: 1
+  - m_Path: Armature/IK_Spine/Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Lower_Arm_R_end
+    m_Weight: 1
+  - m_Path: Armature/POLE_Arm_L
+    m_Weight: 1
+  - m_Path: Armature/POLE_Arm_L/POLE_Arm_L_end
+    m_Weight: 1
+  - m_Path: Armature/POLE_Arm_R
+    m_Weight: 1
+  - m_Path: Armature/POLE_Arm_R/POLE_Arm_R_end
+    m_Weight: 1
+  - m_Path: Armature/POLE_Foot_L
+    m_Weight: 0
+  - m_Path: Armature/POLE_Foot_L/POLE_Foot_L_end
+    m_Weight: 1
+  - m_Path: Armature/POLE_Foot_R
+    m_Weight: 0
+  - m_Path: Armature/POLE_Foot_R/POLE_Foot_R_end
+    m_Weight: 1
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root/Hips
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root/Hips/Spine
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root/Hips/Spine/Spine_end
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root/Upper_Leg_L
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root/Upper_Leg_L/Lower_Leg_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Upper_Root/Upper_Leg_L/Lower_Leg_L/Lower_Leg_L_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Upper_Root/Upper_Leg_R
+    m_Weight: 0
+  - m_Path: Armature/Root/Upper_Root/Upper_Leg_R/Lower_Leg_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Upper_Root/Upper_Leg_R/Lower_Leg_R/Lower_Leg_R_end
+    m_Weight: 0
+  - m_Path: Cube
+    m_Weight: 0
